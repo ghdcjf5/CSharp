@@ -1,0 +1,4 @@
+C:\CSLanguage\firstClass\firstClass\bin\Debug\firstClass.exe
+C:\CSLanguage\firstClass\firstClass\bin\Debug\firstClass.pdb
+C:\CSLanguage\firstClass\firstClass\obj\x86\Debug\firstClass.exe
+C:\CSLanguage\firstClass\firstClass\obj\x86\Debug\firstClass.pdb

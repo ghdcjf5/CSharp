@@ -1,0 +1,4 @@
+C:\CSLanguage\checkOddEven\checkOddEven\bin\Debug\checkOddEven.exe
+C:\CSLanguage\checkOddEven\checkOddEven\bin\Debug\checkOddEven.pdb
+C:\CSLanguage\checkOddEven\checkOddEven\obj\x86\Debug\checkOddEven.exe
+C:\CSLanguage\checkOddEven\checkOddEven\obj\x86\Debug\checkOddEven.pdb

@@ -1,0 +1,14 @@
+C:\Users\embedded_29\Desktop\ro\Vcs\serialDataSendReceive\serialDataSendReceive\obj\x86\Debug\serialDataSendReceive.Form1.resources
+C:\Users\embedded_29\Desktop\ro\Vcs\serialDataSendReceive\serialDataSendReceive\obj\x86\Debug\serialDataSendReceive.Properties.Resources.resources
+C:\Users\embedded_29\Desktop\ro\Vcs\serialDataSendReceive\serialDataSendReceive\obj\x86\Debug\serialDataSendReceive.csproj.GenerateResource.Cache
+C:\Users\embedded_29\Desktop\ro\Vcs\serialDataSendReceive\serialDataSendReceive\bin\Debug\serialDataSendReceive.exe
+C:\Users\embedded_29\Desktop\ro\Vcs\serialDataSendReceive\serialDataSendReceive\bin\Debug\serialDataSendReceive.pdb
+C:\Users\embedded_29\Desktop\ro\Vcs\serialDataSendReceive\serialDataSendReceive\obj\x86\Debug\serialDataSendReceive.exe
+C:\Users\embedded_29\Desktop\ro\Vcs\serialDataSendReceive\serialDataSendReceive\obj\x86\Debug\serialDataSendReceive.pdb
+C:\CSLanguage\serialDataSendReceive\serialDataSendReceive\obj\x86\Debug\serialDataSendReceive.exe
+C:\CSLanguage\serialDataSendReceive\serialDataSendReceive\obj\x86\Debug\serialDataSendReceive.pdb
+C:\CSLanguage\serialDataSendReceive\serialDataSendReceive\bin\Debug\serialDataSendReceive.exe
+C:\CSLanguage\serialDataSendReceive\serialDataSendReceive\bin\Debug\serialDataSendReceive.pdb
+C:\CSLanguage\serialDataSendReceive\serialDataSendReceive\obj\x86\Debug\serialDataSendReceive.Form1.resources
+C:\CSLanguage\serialDataSendReceive\serialDataSendReceive\obj\x86\Debug\serialDataSendReceive.Properties.Resources.resources
+C:\CSLanguage\serialDataSendReceive\serialDataSendReceive\obj\x86\Debug\serialDataSendReceive.csproj.GenerateResource.Cache

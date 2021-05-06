@@ -1,0 +1,4 @@
+C:\CSLanguage\study1\study1\bin\Debug\study1.exe
+C:\CSLanguage\study1\study1\bin\Debug\study1.pdb
+C:\CSLanguage\study1\study1\obj\x86\Debug\study1.exe
+C:\CSLanguage\study1\study1\obj\x86\Debug\study1.pdb

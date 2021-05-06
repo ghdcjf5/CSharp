@@ -1,0 +1,7 @@
+C:\visualC\arduino_windowsTest2\obj\x86\Debug\arduino_windowsTest2.Form1.resources
+C:\visualC\arduino_windowsTest2\obj\x86\Debug\arduino_windowsTest2.Properties.Resources.resources
+C:\visualC\arduino_windowsTest2\obj\x86\Debug\arduino_windowsTest2.csproj.GenerateResource.Cache
+C:\visualC\arduino_windowsTest2\bin\Debug\arduino_windowsTest2.exe
+C:\visualC\arduino_windowsTest2\bin\Debug\arduino_windowsTest2.pdb
+C:\visualC\arduino_windowsTest2\obj\x86\Debug\arduino_windowsTest2.exe
+C:\visualC\arduino_windowsTest2\obj\x86\Debug\arduino_windowsTest2.pdb

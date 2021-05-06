@@ -1,0 +1,14 @@
+C:\C#\SerialArduinoControl\bin\Debug\SerialArduinoControl.exe
+C:\C#\SerialArduinoControl\bin\Debug\SerialArduinoControl.pdb
+C:\C#\SerialArduinoControl\obj\x86\Debug\SerialArduinoControl.Form1.resources
+C:\C#\SerialArduinoControl\obj\x86\Debug\SerialArduinoControl.Properties.Resources.resources
+C:\C#\SerialArduinoControl\obj\x86\Debug\SerialArduinoControl.csproj.GenerateResource.Cache
+C:\C#\SerialArduinoControl\obj\x86\Debug\SerialArduinoControl.exe
+C:\C#\SerialArduinoControl\obj\x86\Debug\SerialArduinoControl.pdb
+C:\CSLanguage\SerialArduinoControl\obj\x86\Debug\SerialArduinoControl.exe
+C:\CSLanguage\SerialArduinoControl\obj\x86\Debug\SerialArduinoControl.pdb
+C:\CSLanguage\SerialArduinoControl\bin\Debug\SerialArduinoControl.exe
+C:\CSLanguage\SerialArduinoControl\bin\Debug\SerialArduinoControl.pdb
+C:\CSLanguage\SerialArduinoControl\obj\x86\Debug\SerialArduinoControl.Form1.resources
+C:\CSLanguage\SerialArduinoControl\obj\x86\Debug\SerialArduinoControl.Properties.Resources.resources
+C:\CSLanguage\SerialArduinoControl\obj\x86\Debug\SerialArduinoControl.csproj.GenerateResource.Cache
